@@ -1,5 +1,8 @@
 ## PHP Decimal operations
 
+### Requirements
+* PHP 8.3
+
 ### Usage
 
 * Clone the repo
